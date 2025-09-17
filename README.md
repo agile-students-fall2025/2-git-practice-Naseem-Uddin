@@ -19,3 +19,6 @@ From,
 Naseem Uddin 
 
 I added this article because I’m interested in how AI is affecting not just software engineering, but also the infrastructure, business, and ethical layers around it.  
+
+## Jibril edit
+This an intersing topic about how AI can make a big impact with the tools and platform that people use.
